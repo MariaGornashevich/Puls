@@ -14,4 +14,16 @@
         height: 50px;
         font-size: 16px;
     }
+    &_submit {
+        width: 100%;
+        border-radius: 5px;
+        border: none;
+        margin-top: 17px;
+        font-weight: 500;
+        font-size: 16px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        height: 58px;
+        background: $main-color;
+    }
 }
